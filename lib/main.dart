@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:fltwop/persistent_tabbar/page1.dart';
-import 'package:fltwop/persistent_tabbar/page2.dart';
+import 'package:fltwop/page1.dart';
+import 'package:fltwop/page2.dart';
 
 class MainPersistentTabBar extends StatelessWidget {
 
